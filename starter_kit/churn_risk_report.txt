@@ -1,0 +1,16 @@
+CHURN RISK SCREEN
+=================
+Accounts to contact:
+- Northwind Traders (A-01, Growth): Logins declined 60.7%: 26.8 to 10.5 average per week.
+- Cascade Meridian (A-05, Enterprise): Logins declined 73.2%: 24.2 to 6.5 average per week.
+
+All accounts:
+- A-01 | Northwind Traders | at_risk | trend -60.7% | Logins declined 60.7%: 26.8 to 10.5 average per week.
+- A-02 | Bluepeak Corp | healthy | trend +4.8% | Logins are stable or increasing (+4.8%).
+- A-03 | Solace Digital | healthy | trend +41.2% | Logins are stable or increasing (+41.2%).
+- A-04 | Harborview Inc | monitor | trend -17.4% | Logins declined 17.4%, below the 30.0% risk threshold.
+- A-05 | Cascade Meridian | at_risk | trend -73.2% | Logins declined 73.2%: 24.2 to 6.5 average per week.
+- A-06 | Fresh Startup Co | insufficient_data | trend not scored | Needs at least 8 weeks to compare two 4-week periods; has 5.
+- A-07 | Choppy Retail Co | monitor | trend -5.1% | Logins declined 5.1%, below the 30.0% risk threshold.
+- A-08 | New Signup LLC | insufficient_data | trend not scored | Needs at least 8 weeks to compare two 4-week periods; has 2.
+- A-3949 | NEW ACCT | healthy | trend +25.8% | Logins are stable or increasing (+25.8%).

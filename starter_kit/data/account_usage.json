@@ -7,6 +7,7 @@
     {"account_id": "A-05", "account_name": "Cascade Meridian", "plan_tier": "Enterprise", "weekly_logins": [35, 33, 36, 34, 32, 30, 20, 15, 10, 7, 5, 4]},
     {"account_id": "A-06", "account_name": "Fresh Startup Co", "plan_tier": "Starter", "weekly_logins": [40, 12, 11, 13, 12]},
     {"account_id": "A-07", "account_name": "Choppy Retail Co", "plan_tier": "Growth", "weekly_logins": [18, 25, 14, 22, 17, 24, 15, 23, 16, 21, 18, 20]},
-    {"account_id": "A-08", "account_name": "New Signup LLC", "plan_tier": "Starter", "weekly_logins": [9, 11]}
+    {"account_id": "A-08", "account_name": "New Signup LLC", "plan_tier": "Starter", "weekly_logins": [9, 11]},
+    {"account_id": "A-3949", "account_name": "NEW ACCT", "plan_tier": "premium", "weekly_logins": [9, 11,12,13,14,15,16,17,18,19,20,21]}
   ]
 }
